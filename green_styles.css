@@ -414,7 +414,7 @@ article table {
 
 @media (min-width:992px) and (max-width:1199px){
 .frame_right {
-    background-image: url(images/Xavi_Dad_Bamboo.jpg);
+    background-image: url(images/Home/Xavi_Dad_Bamboo.jpg);
     background-size: 374px auto;
     background-repeat: no-repeat;
     background-position: 83% 53%;
@@ -551,7 +551,7 @@ article table {
 }
 .miniframe {
     margin-top: -24px;
-    background-image: url(images/Xavi_Dad_Bamboo.jpg);
+    background-image: url(images/Home/Xavi_Dad_Bamboo.jpg);
     background-position: center center;
     background-size: auto 62%;
     background-repeat: no-repeat;
