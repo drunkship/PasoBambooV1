@@ -41,16 +41,16 @@ nav.row .navbar.navbar-default {
 	background-image: linear-gradient(180deg,rgba(90,107,71,1.00) 0%,rgba(90,107,71,1.00) 100%);
 }
 nav.row .nav.navbar-nav > li > a:link  , nav.row .nav.navbar-nav > li > a:visited{
-    border-left: 1px solid #1B5707;
-    border-right: 1px solid #0D5B04;
-    border-bottom: 1px solid #0D5B04;
-    border-top: 1px solid #1B5707;
     color: #FFC;
     font-weight: normal;
     font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    text-decoration: underline;
+    text-align: center;
+    margin-left: 7px;
+    font-size: 14pt;
 }
 nav.row .nav.navbar-nav > li > a:hover {
-    color: #FFF;
+    color: #150707;
     background-image: url(url), -webkit-linear-gradient(270deg,rgba(63,114,7,1.00) 0%,rgba(77,142,4,1.00) 100%);
     background-image: url(url), -moz-linear-gradient(270deg,rgba(63,114,7,1.00) 0%,rgba(77,142,4,1.00) 100%);
     background-image: url(url), -o-linear-gradient(270deg,rgba(63,114,7,1.00) 0%,rgba(77,142,4,1.00) 100%);
@@ -67,7 +67,7 @@ nav.row .nav.navbar-nav {
     margin-top: 0px;
     margin-left: auto;
     margin-bottom: 0px;
-    width: 885px;
+    width: 792px;
     float: none;
     padding-right: 0px;
     margin-right: auto;
