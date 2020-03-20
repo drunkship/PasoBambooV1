@@ -55,9 +55,9 @@ nav.row .nav.navbar-nav > li > a:hover {
     background-image: url(url), -moz-linear-gradient(270deg,rgba(63,114,7,1.00) 0%,rgba(77,142,4,1.00) 100%);
     background-image: url(url), -o-linear-gradient(270deg,rgba(63,114,7,1.00) 0%,rgba(77,142,4,1.00) 100%);
     background-image: url(url), linear-gradient(180deg,rgba(63,114,7,1.00) 0%,rgba(77,142,4,1.00) 100%);
-    text-align: center;
     font-style: normal;
     top: -38%;
+    font-weight: bold;
 }
 nav.row {
     border-top: 5px solid #9c794f;
