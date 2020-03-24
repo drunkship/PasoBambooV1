@@ -67,13 +67,8 @@ nav.row {
     font-style: normal;
 }
 nav.row .nav.navbar-nav {
-    margin-top: 0px;
-    margin-left: auto;
-    margin-bottom: 0px;
-    width: 806px;
     float: none;
     padding-right: 0px;
-    margin-right: auto;
 }
 nav.row .navbar {
 	margin-bottom: 0px;
