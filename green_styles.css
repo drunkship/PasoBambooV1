@@ -690,9 +690,4 @@ article table {
     margin-left: 39px;
 }
 .line-space {
-    border-right: 1.5px dotted #000000;
-    border-radius: 8px;
-    border-left: 1.5px dotted #010000;
-    border-bottom: 1.5px dotted #120202;
-    border-top: 1.5px dotted #080101;
 }
