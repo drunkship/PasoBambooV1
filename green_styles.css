@@ -311,7 +311,7 @@ article tr {
     border-bottom: solid 2px #060;
 }
 tr:nth-of-type(even) {
-    background-color: #CBBE93;
+    background-color: #D2ECBE;
 }
 
 
@@ -693,4 +693,7 @@ article table {
 #Planters {
 }
 #Residential {
+}
+.text-underline {
+    text-decoration: underline;
 }
