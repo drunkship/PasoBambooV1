@@ -697,3 +697,11 @@ article table {
 .text-underline {
     text-decoration: underline;
 }
+.pic-text {
+    margin-top: -1px;
+    margin-bottom: -3px;
+}
+.table-title {
+    margin-top: 3px;
+    margin-bottom: -22px;
+}
