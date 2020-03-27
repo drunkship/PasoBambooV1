@@ -434,8 +434,6 @@ article table {
     padding-left: 0px;
     margin-top: -261px;
     margin-left: -83px;
-    font-variant: normal;
-    font-weight: normal;
 }
 .bodyinfo {
     margin-top: 49px;
@@ -486,7 +484,6 @@ article table {
     padding-top: 0px;
     padding-bottom: 0px;
     padding-right: 0px;
-    background-repeat: no-repeat;
     font-style: italic;
 }
 .mission2 {
@@ -517,10 +514,7 @@ article table {
     width: 872px;
     padding-top: 29px;
     padding-bottom: 29px;
-    top: -3px;
-    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
     font-style: italic;
-    font-weight: normal;
     text-shadow: 0 0px;
     float: left;
     margin-top: -574px;
