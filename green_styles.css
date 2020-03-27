@@ -432,8 +432,10 @@ article table {
     box-shadow: 0px 0px 0px;
     text-shadow: 0px 0px;
     padding-left: 0px;
-    margin-top: -257px;
+    margin-top: -261px;
     margin-left: -83px;
+    font-variant: normal;
+    font-weight: normal;
 }
 .bodyinfo {
     margin-top: 49px;
