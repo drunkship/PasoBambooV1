@@ -723,4 +723,8 @@ article table {
     -webkit-text-stroke-width: .5px;
     -webkit-text-fill-color: transparent;
     color: #74A235;
+    padding-top: 0px;
+}
+.shift-up {
+    margin-top: -10px;
 }

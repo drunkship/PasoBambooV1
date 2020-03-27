@@ -1608,8 +1608,6 @@ pre code {
   }
 }
 .container-fluid {
-    margin-right: auto;
-    margin-left: auto;
 }
 .row {
     margin-right: -15px;
