@@ -1609,8 +1609,6 @@ pre code {
     margin-left: auto;
 }
 .row {
-    margin-right: -10px;
-    margin-left: -10px;
 }
 .row-no-gutters {
   margin-right: 0;
@@ -2228,6 +2226,7 @@ pre code {
   }
   .col-lg-1 {
     width: 8.33333333%;
+    padding-top: 0px;
   }
   .col-lg-pull-12 {
     right: 100%;
