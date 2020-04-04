@@ -4494,7 +4494,6 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
     color: #161902;
     background-color: hsla(33,42%,70%,1.00);
     font-weight: bold;
-    margin-left: 40px;
   }
   .navbar-default .navbar-nav .open .dropdown-menu > .active > a,
   .navbar-default .navbar-nav .open .dropdown-menu > .active > a:hover,
