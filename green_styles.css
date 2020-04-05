@@ -361,6 +361,13 @@ article th {
 td.size:before {
     content: "Size: ";
 }
+td.product:before {
+    content: "Product: ";
+}
+td.pro:before {
+    content: "Product: ";
+}
+	
 td.height:before {
     content: "Height: ";
 }
@@ -372,6 +379,7 @@ td.price:before {
 }
 article .size, 
 article .height,
+article .pro,
 article .diameter,
 article .price {
     width: 100%;
@@ -392,6 +400,7 @@ td:before {
 }
 article tr {
     border-bottom: solid 2px #060;
+    width: 92%;
 }
 tr:nth-of-type(even) {
     background-color: #D2ECBE;
