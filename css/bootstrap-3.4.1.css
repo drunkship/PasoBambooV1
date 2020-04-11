@@ -1300,6 +1300,11 @@ p {
   .lead {
     font-size: 21px;
   }
+.spread-new {
+    border-right: medium groove #5A6B48;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
 }
 small,
 .small {
@@ -1317,7 +1322,7 @@ mark,
   text-align: right;
 }
 .text-center {
-  text-align: center;
+    text-align: center;
 }
 .text-justify {
   text-align: justify;
@@ -1580,10 +1585,8 @@ pre code {
   overflow-y: scroll;
 }
 .container {
-  padding-right: 15px;
-  padding-left: 15px;
-  margin-right: auto;
-  margin-left: auto;
+    margin-right: auto;
+    margin-left: auto;
 }
 @media (min-width: 768px) {
   .container {
@@ -2586,6 +2589,11 @@ th {
   .table-responsive > .table-bordered > tfoot > tr:last-child > td {
     border-bottom: 0;
   }
+.spread-num {
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-right: medium solid #000000;
+}
 }
 fieldset {
   min-width: 0;
@@ -6855,4 +6863,6 @@ button.close {
 #install-case4 {
 }
 .Size {
+}
+.col-sm-10 				{
 }

@@ -772,6 +772,9 @@ article table {
 .aboutlarge {
     margin-top: 60px;
 }
+.spread-large {
+    margin-top: 44px;
+}
 }
 .comname {
     font-weight: bold;
@@ -826,4 +829,10 @@ article table {
 }
 .privacy-shift {
     padding-top: 0px;
+}
+.spread-info {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    margin-top: 1%;
 }
