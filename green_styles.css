@@ -399,11 +399,14 @@ td:before {
     left: .5em;
 }
 article tr {
-    border-bottom: solid 2px #060;
+    border-bottom: 0px solid #060;
     width: 92%;
 }
 tr:nth-of-type(even) {
     background-color: #D2ECBE;
+}
+.mobile-main {
+    background-color: #E6EACC;
 }
 
 
