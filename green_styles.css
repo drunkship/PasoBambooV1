@@ -869,3 +869,17 @@ article table {
     border-right: medium solid #000000;
 }
 }
+.xavi-paper {
+    background-color: #83A959;
+}
+.why-box {
+    border-top: thin dotted #000000;
+    border-bottom: thin dotted #000000;
+}
+.why-pic {
+    background-image: url(images/WhyBamboo/thumbnail_IMG_8429.jpg);
+    height: 684px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: auto auto;
+}
