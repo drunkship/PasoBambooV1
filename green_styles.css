@@ -840,10 +840,16 @@ article table {
     margin-top: 1%;
 }
 .olive-intro {
-    background-image: url(images/oliveTrees/IMG_3556.JPG);
-    background-attachment: fixed;
-    background-position: center center;
+    background-image: url(images/oliveTrees/olive_intro.jpg);
+    background-position: center 81%;
     background-repeat: no-repeat;
     background-size: cover;
     height: 500px;
+}
+.olive-title {
+    -webkit-box-shadow: 0px 0px 0px;
+    box-shadow: 0px 0px 0px;
+    text-shadow: 0 0 0;
+    opacity: 1;
+    margin-top: 33px;
 }
