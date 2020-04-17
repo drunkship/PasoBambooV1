@@ -642,6 +642,8 @@ article table {
     padding-left: 0px;
     padding-right: 0px;
 }
+.olive-wall {
+}
 
 
 }
@@ -860,4 +862,10 @@ article table {
 .tour-kids {
     float: left;
     padding-top: 75px;
+}
+
+@media (min-width:768px){
+.olive-new {
+    border-right: medium solid #000000;
+}
 }
