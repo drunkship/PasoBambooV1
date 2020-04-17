@@ -853,3 +853,11 @@ article table {
     opacity: 1;
     margin-top: 33px;
 }
+.tpur-image {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.tour-kids {
+    float: left;
+    padding-top: 75px;
+}
