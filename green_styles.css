@@ -463,7 +463,7 @@ article table {
     margin-left: -236px;
     padding-top: 0px;
     padding-bottom: 0px;
-    margin-top: -43px;
+    margin-top: -30px;
     min-height: 0px;
     width: 136%;
     height: 660px;
@@ -517,7 +517,7 @@ article table {
     margin-left: -146px;
     padding-top: 0px;
     padding-bottom: 0px;
-    margin-top: -46px;
+    margin-top: -31px;
     min-height: 0px;
     width: 123%;
     margin-bottom: -48px;
@@ -838,4 +838,12 @@ article table {
     -moz-box-sizing: border-box;
     box-sizing: border-box;
     margin-top: 1%;
+}
+.olive-intro {
+    background-image: url(images/oliveTrees/IMG_3556.JPG);
+    background-attachment: fixed;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
 }
