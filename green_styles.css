@@ -883,3 +883,10 @@ article table {
     background-position: center;
     background-size: auto auto;
 }
+.screen-intro {
+    background-image: url(images/PrivacyScreen/IMG_2067.jpg);
+    background-size: 100% auto;
+    background-position: center center;
+    background-repeat: no-repeat;
+    height: 396px;
+}
