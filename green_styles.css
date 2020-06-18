@@ -870,6 +870,9 @@ article table {
 .olive-new {
     border-right: medium solid #000000;
 }
+.alt {
+    padding-top: 54px;
+}
 }
 .xavi-paper {
     background-color: #83A959;
@@ -905,4 +908,6 @@ article table {
 }
 .altDown {
     margin-top: 41px;
+}
+.altDesk {
 }
