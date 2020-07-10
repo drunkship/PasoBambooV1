@@ -753,10 +753,10 @@ article table {
     background-size: 236% auto;
 }
 .aboutfont {
-    font-weight: bold;
+    font-weight: normal;
     font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
     text-align: center;
-    font-size: large;
+    font-size: 20px;
 }
 .leaves {
     padding-bottom: 0px;
