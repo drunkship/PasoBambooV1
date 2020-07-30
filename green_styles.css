@@ -134,7 +134,7 @@ nav.row .nav.navbar-nav > li > a:link  , nav.row .nav.navbar-nav > li > a:visite
     font-size: 16pt;
     padding-right: 7px;
     padding-left: 13px;
-    margin-left: 1px;
+    margin-left: 0px;
 }
 nav.row .nav.navbar-nav > li > a:hover {
     color: #150707;
@@ -910,4 +910,11 @@ article table {
     margin-top: 41px;
 }
 .altDesk {
+}
+.newLogo {
+    padding-top: 16px;
+    padding-bottom: 0px;
+    margin-bottom: -100px;
+    margin-top: -15px;
+    float: left;
 }
