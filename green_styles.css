@@ -416,22 +416,6 @@ tr:nth-of-type(even) {
 
 
 }
-.frame_right {
-    background-image: url(images/Xavi_Gavino.jpeg);
-    background-size: 680px auto;
-    background-repeat: no-repeat;
-    background-position: 83% 57%;
-    padding-left: 0px;
-    margin-left: -490px;
-    padding-top: 0px;
-    padding-bottom: 0px;
-    margin-top: -4px;
-    min-height: 0px;
-    width: 168%;
-    height: 322%;
-    -webkit-box-shadow: 0px 0px;
-    box-shadow: 0px 0px;
-}
 article .diam {
     text-align: center;
 }
@@ -560,6 +544,10 @@ article table {
 .privacy-push {
     left: 14.333%;
 }
+.margin-sm {
+    margin-top: -106px;
+    margin-bottom: -85px;
+}
 
 }
 .WWD {
@@ -607,7 +595,7 @@ article table {
 
 @media (min-width: 1817px){
 .story {
-    font-size: 131%;
+    font-size: 14pt;
     margin-left: -381px;
     padding-right: 29px;
     padding-left: 29px;
@@ -617,7 +605,7 @@ article table {
     font-style: italic;
     text-shadow: 0 0px;
     float: left;
-    margin-top: -584px;
+    margin-top: -589px;
     text-align: center;
 }
 
@@ -640,6 +628,10 @@ article table {
 }
 .olive-wall {
 }
+.margin {
+    margin-top: -51px;
+    margin-bottom: -62px;
+}
 
 
 }
@@ -654,7 +646,7 @@ article table {
     margin-top: -24px;
     background-image: url(images/Xavi_Gavino.jpeg);
     background-position: center center;
-    background-size: auto 62%;
+    background-size: auto 67%;
     background-repeat: no-repeat;
 }
 .color {
