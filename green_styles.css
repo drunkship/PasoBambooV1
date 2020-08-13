@@ -416,6 +416,22 @@ tr:nth-of-type(even) {
 
 
 }
+.frame_right {
+    background-image: url(images/Xavi_Gavino.jpeg);
+    background-size: 680px auto;
+    background-repeat: no-repeat;
+    background-position: 83% 57%;
+    padding-left: 0px;
+    margin-left: -490px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    margin-top: -4px;
+    min-height: 0px;
+    width: 168%;
+    height: 322%;
+    -webkit-box-shadow: 0px 0px;
+    box-shadow: 0px 0px;
+}
 article .diam {
     text-align: center;
 }
@@ -545,8 +561,8 @@ article table {
     left: 14.333%;
 }
 .margin-sm {
-    margin-top: -106px;
-    margin-bottom: -85px;
+    margin-top: -115px;
+    margin-bottom: -73px;
 }
 
 }
@@ -629,8 +645,8 @@ article table {
 .olive-wall {
 }
 .margin {
-    margin-top: -51px;
-    margin-bottom: -62px;
+    margin-top: -48px;
+    margin-bottom: -73px;
 }
 
 
@@ -859,6 +875,9 @@ article table {
 }
 .alt {
     margin-top: 52px;
+}
+.frame-mobile {
+    margin-top: -57px;
 }
 }
 .xavi-paper {
