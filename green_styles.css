@@ -418,16 +418,16 @@ tr:nth-of-type(even) {
 }
 .frame_right {
     background-image: url(images/Xavi_Gavino.jpeg);
-    background-size: 645px auto;
+    background-size: 680px auto;
     background-repeat: no-repeat;
     background-position: 83% 57%;
     padding-left: 0px;
-    margin-left: -422px;
+    margin-left: -490px;
     padding-top: 0px;
     padding-bottom: 0px;
     margin-top: -4px;
     min-height: 0px;
-    width: 174%;
+    width: 168%;
     height: 322%;
     -webkit-box-shadow: 0px 0px;
     box-shadow: 0px 0px;
@@ -457,17 +457,16 @@ article table {
 @media (min-width:1200px) and (max-width:1816px){
 .frame_right {
     background-image: url(images/Xavi_Gavino.jpeg);
-    background-size: 518px 388px;
     background-repeat: no-repeat;
     background-position: 83% 55%;
     padding-left: 0px;
-    margin-left: -236px;
+    margin-left: -231px;
     padding-top: 0px;
     padding-bottom: 0px;
     margin-top: -30px;
     min-height: 0px;
-    width: 136%;
-    height: 660px;
+    width: 132%;
+    background-size: 34% auto;
 }
 .moto {
 	padding-left: 165px;
@@ -482,17 +481,15 @@ article table {
 
 }
 .story {
-    padding-right: 0px;
-    padding-bottom: 0px;
     font-size: 11pt;
     -webkit-box-shadow: 0px 0px;
     box-shadow: 0px 0px;
     text-shadow: 0px 0px;
-    padding-left: 0px;
     left: 84px;
     width: 55%;
-    margin-top: -474px;
-    margin-left: -135px;
+    margin-top: -444px;
+    margin-left: -136px;
+    text-align: center;
 }
 .home-text {
     font-size: 11pt;
@@ -511,9 +508,9 @@ article table {
 @media (min-width:992px) and (max-width:1199px){
 .frame_right {
     background-image: url(images/Xavi_Gavino.jpeg);
-    background-size: 374px auto;
+    background-size: 390px auto;
     background-repeat: no-repeat;
-    background-position: 83% 53%;
+    background-position: 82% 53%;
     padding-left: 0px;
     margin-left: -146px;
     padding-top: 0px;
@@ -525,13 +522,17 @@ article table {
 }
 .story {
     padding-bottom: 0px;
-    font-size: 8pt;
+    font-size: 79%;
     -webkit-box-shadow: 0px 0px 0px;
     box-shadow: 0px 0px 0px;
     text-shadow: 0px 0px;
     padding-left: 0px;
-    margin-top: -269px;
-    margin-left: -83px;
+    margin-top: -292px;
+    margin-left: -76px;
+    text-align: center;
+    font-style: normal;
+    font-weight: 400;
+    width: 51%;
 }
 .bodyinfo {
     margin-top: 49px;
@@ -585,13 +586,6 @@ article table {
 	font-weight: bold;
 	font-size: 15px;
 }
-.story {
-    padding-left: 0px;
-    padding-top: 0px;
-    padding-bottom: 0px;
-    padding-right: 0px;
-    font-style: italic;
-}
 .mission2 {
 	margin-left: -185px;
 	margin-top: 77px;
@@ -614,7 +608,7 @@ article table {
 @media (min-width: 1817px){
 .story {
     font-size: 14pt;
-    margin-left: -309px;
+    margin-left: -381px;
     padding-right: 29px;
     padding-left: 29px;
     width: 872px;
@@ -623,7 +617,8 @@ article table {
     font-style: italic;
     text-shadow: 0 0px;
     float: left;
-    margin-top: -574px;
+    margin-top: -589px;
+    text-align: center;
 }
 
 }
