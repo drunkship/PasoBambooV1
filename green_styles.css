@@ -611,7 +611,7 @@ article table {
 
 @media (min-width: 1817px){
 .story {
-    font-size: 14pt;
+    font-size: 132%;
     margin-left: -381px;
     padding-right: 29px;
     padding-left: 29px;
@@ -621,7 +621,7 @@ article table {
     font-style: italic;
     text-shadow: 0 0px;
     float: left;
-    margin-top: -598px;
+    margin-top: -582px;
     text-align: center;
 }
 
