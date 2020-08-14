@@ -487,12 +487,16 @@ article table {
     text-shadow: 0px 0px;
     left: 84px;
     width: 58%;
-    margin-top: -435px;
+    margin-top: -441px;
     margin-left: -153px;
     text-align: center;
 }
 .home-text {
-    font-size: 11pt;
+    font-size: 140%;
+}
+.home-toptext {
+    font-size: 181%;
+    font-weight: 500;
 }
 
 
@@ -527,7 +531,7 @@ article table {
     box-shadow: 0px 0px 0px;
     text-shadow: 0px 0px;
     padding-left: 0px;
-    margin-top: -285px;
+    margin-top: -298px;
     margin-left: -84px;
     text-align: center;
     font-style: normal;
@@ -536,6 +540,13 @@ article table {
 }
 .bodyinfo {
     margin-top: 49px;
+}
+.home-sm {
+    font-size: 116%;
+}
+.home-smheader {
+    font-size: 123%;
+    font-weight: 500;
 }
 
 
@@ -611,7 +622,7 @@ article table {
 
 @media (min-width: 1817px){
 .story {
-    font-size: 130%;
+    font-size: 233%;
     margin-left: -381px;
     padding-right: 29px;
     padding-left: 29px;
@@ -621,7 +632,7 @@ article table {
     font-style: italic;
     text-shadow: 0 0px;
     float: left;
-    margin-top: -582px;
+    margin-top: -558px;
     text-align: center;
 }
 
