@@ -527,7 +527,7 @@ article table {
     box-shadow: 0px 0px 0px;
     text-shadow: 0px 0px;
     padding-left: 0px;
-    margin-top: -307px;
+    margin-top: -292px;
     margin-left: -76px;
     text-align: center;
     font-style: normal;
@@ -645,8 +645,8 @@ article table {
 .olive-wall {
 }
 .margin {
-    margin-top: -48px;
-    margin-bottom: -73px;
+    margin-top: -90px;
+    margin-bottom: -36px;
 }
 
 
@@ -659,10 +659,10 @@ article table {
 
 }
 .miniframe {
-    margin-top: -24px;
+    margin-top: -7px;
     background-image: url(images/Xavi_Gavino.jpeg);
     background-position: center center;
-    background-size: auto 67%;
+    background-size: auto 63%;
     background-repeat: no-repeat;
 }
 .color {
