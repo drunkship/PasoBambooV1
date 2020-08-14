@@ -561,8 +561,8 @@ article table {
     left: 14.333%;
 }
 .margin-sm {
-    margin-top: -115px;
-    margin-bottom: -73px;
+    margin-top: -74px;
+    margin-bottom: -9px;
 }
 
 }
@@ -645,8 +645,8 @@ article table {
 .olive-wall {
 }
 .margin {
-    margin-top: -90px;
-    margin-bottom: -36px;
+    margin-bottom: -55px;
+    margin-top: -37px;
 }
 
 
@@ -659,7 +659,6 @@ article table {
 
 }
 .miniframe {
-    margin-top: -7px;
     background-image: url(images/Xavi_Gavino.jpeg);
     background-position: center center;
     background-size: auto 61%;
