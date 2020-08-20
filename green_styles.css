@@ -950,3 +950,12 @@ article table {
     margin-top: -15px;
     float: left;
 }
+.gal-one {
+    padding-right: 0px;
+    padding-left: 0px;
+}
+.gal-two {
+    padding-left: 0px;
+    margin-left: -25px;
+    width: 301%;
+}
